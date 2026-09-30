@@ -1,0 +1,56 @@
+name: Deploy Kebun Maul
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: kebun
+          fetch-depth: 0
+      - uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: 97a2d05f80c4c50534959b1d0d41cc4b3895625e
+          path: quartz
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Pasang catatan dan config
+        run: |
+          rm -rf quartz/content
+          cp -r kebun/content quartz/content
+          cp kebun/quartz.config.yaml quartz/quartz.config.yaml
+      - name: Build
+        working-directory: quartz
+        run: |
+          npm ci
+          npx quartz plugin install --from-config
+          npx quartz build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
