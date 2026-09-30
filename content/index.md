@@ -1,13 +1,15 @@
 ---
-title: Kebun Maul
+title: Kebun Ujat
 description: Catetan pribadi gw soal tender, proyek, dan kuliah sipil.
 tags:
   - home
 ---
 
-Halo, gw **Maul**.
+Halo! Biasa dipanggil: **Ujat**.
 
-Ini kebun digital gw. Isinya bukan blog rapi, tapi catetan yang gw tanem pelan-pelan: kadang masih mentah, kadang gw revisi berkali-kali, dan saling nyambung satu sama lain.
+(Iya, Ujat. Bukan Ujang, bukan Usat. Udah sering salah panggil, gw udah ikhlas.)
+
+Ini kebun digital gw. Isinya bukan blog rapi, tapi catetan yang gw tanem pelan-pelan: kadang masih mentah, kadang gw revisi berkali-kali, dan saling nyambung satu sama lain. Kayak kebun beneran, bedanya yang ini nggak perlu disiram. Cukup diisi.
 
 Sehari-hari gw ngurusin **tender proyek konstruksi pemerintah**, sambil kuliah **Teknik Sipil** malem-malem sama Sabtu. Jadi ya isinya kebanyakan dari dua dunia itu. Banyak hal yang gw pelajarin dengan cara yang agak nyakitin (baca: gugur tender), jadi gw tulis di sini biar nggak kejadian lagi.
 
@@ -30,4 +32,4 @@ Tiap catetan ada label "umurnya":
 
 Kalau mau liat catetan mana nyambung ke mana, buka **Graph View** di kanan bawah.
 
-Santai aja, jalan-jalan dulu.
+Santai aja, jalan-jalan dulu. Nggak ada tiket masuk, nggak ada HPS.
