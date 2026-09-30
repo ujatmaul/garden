@@ -5,16 +5,16 @@ tags:
   - pengadaan
 ---
 
-Mini kompetisi di Katalog Elektronik (INAPROC v6): PPK mengundang beberapa penyedia yang produknya tayang, lalu penyedia mengajukan penawaran. Untuk jalur tender terbuka, lihat [[Tender LPSE]].
+Mini kompetisi itu jalur di Katalog Elektronik (INAPROC v6). PPK ngundang beberapa penyedia yang produknya udah tayang, terus kita masukin penawaran. Kalau mau jalur tender terbuka, catetannya di [[Tender LPSE]].
 
-## Alur singkat (sisi penyedia)
+## Alurnya dari sisi gw
 
-1. Pastikan produk/jasa konstruksi sudah tayang dan KBLI/SBU sesuai.
-2. Baca detail kompetisi: lingkup, lokasi, waktu, persyaratan kualifikasi.
-3. Susun penawaran dari [[AHSP]] dan pastikan total di bawah pagu/HPS.
-4. Unggah dokumen sesuai [[Checklist Dokumen Penawaran]].
-5. Pantau klarifikasi dan negosiasi sampai pesanan terbit.
+1. Pastiin produk/jasa konstruksi udah tayang, KBLI sama SBU-nya cocok.
+2. Baca detail kompetisinya: lingkup, lokasi, waktu, syarat kualifikasi.
+3. Susun penawaran dari [[AHSP]], pastiin totalnya di bawah pagu/HPS.
+4. Upload dokumen sesuai [[Checklist Dokumen Penawaran]].
+5. Pantengin klarifikasi sama negosiasi sampe pesanan terbit.
 
-## Catatan pribadi
+## Pengalaman gw
 
-- Tulis di sini kasus yang pernah gagal dan penyebabnya.
+- (Isi di sini kasus yang pernah gagal dan kenapa.)
