@@ -7,7 +7,7 @@ tags:
 
 Gw masih inget pertama kali disuruh ngitung besi.
 
-Waktu itu udah malem, gw lagi ngisi DKH, terus mentok di satu baris: *Pembesian — kg*. Gw liatin kolom volumenya lama banget. Kg? Dari mana? Masa iya ada orang nimbang besi satu-satu di lapangan?
+Waktu itu udah malem, gw masih di lapangan, terus mentok di satu baris: *Pembesian — kg*. Gw liatin kolom volumenya lama banget. Kg? Dari mana? Masa iya ada orang nimbang besi satu-satu di lapangan?
 
 Akhirnya gw nanya ke senior. Dia cuma ketawa kecil, terus bilang, "Lu hafalin satu rumus aja. Sisanya cuma ngukur panjang."
 
