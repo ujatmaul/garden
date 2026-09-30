@@ -7,38 +7,38 @@ aliases:
   - Tender SPSE
 ---
 
-Tender adalah metode pemilihan penyedia lewat **SPSE** (Sistem Pengadaan Secara Elektronik) yang dikelola **LPSE** di tiap instansi. Beda jalur dengan [[Mini Kompetisi INAPROC]].
+Tender itu cara milih penyedia lewat **SPSE** (Sistem Pengadaan Secara Elektronik) yang dikelola **LPSE** di tiap instansi. Jalurnya beda sama [[Mini Kompetisi INAPROC]], dan menurut gw jauh lebih ribet.
 
-## Tender LPSE vs Mini Kompetisi
+## Bedanya sama mini kompetisi
 
-| Aspek | Tender LPSE | Mini Kompetisi INAPROC |
+| | Tender LPSE | Mini Kompetisi INAPROC |
 |---|---|---|
-| Tempat | SPSE di situs LPSE instansi | Katalog Elektronik INAPROC |
-| Peserta | Semua penyedia terdaftar yang memenuhi kualifikasi | Penyedia yang produknya tayang di katalog |
-| Pelaksana | Pokja Pemilihan (UKPBJ) | PPK |
-| Dokumen | Penawaran lengkap: administrasi, teknis, harga + kualifikasi | Umumnya lebih ringkas, sesuai permintaan PPK |
-| Durasi | Umumnya beberapa minggu | Umumnya lebih singkat |
+| Di mana | SPSE di situs LPSE instansi | Katalog Elektronik INAPROC |
+| Siapa yang bisa ikut | Semua penyedia terdaftar yang lolos kualifikasi | Penyedia yang produknya udah tayang di katalog |
+| Yang jalanin | Pokja Pemilihan (UKPBJ) | PPK |
+| Dokumennya | Lengkap: administrasi, teknis, harga, kualifikasi | Biasanya lebih ringkes, sesuai permintaan PPK |
+| Lamanya | Biasanya beberapa minggu | Biasanya lebih cepet |
 
-Dasar aturan: Perpres 16/2018 dan perubahannya, plus peraturan LKPP turunannya. Selalu cek versi terbaru.
+Dasar aturannya Perpres 16/2018 dan perubahannya, plus peraturan LKPP turunannya. Selalu cek versi terbaru ya, Maul.
 
-## Alur singkat (sisi penyedia)
+## Alurnya dari sisi gw
 
-1. Akun SPSE aktif di LPSE, data kualifikasi di SIKaP lengkap dan terbaru.
-2. Cari paket, klik ikut tender, unduh dokumen pemilihan.
-3. Pantau pemberian penjelasan dan **adendum** — dokumen yang berlaku adalah adendum terakhir.
-4. Susun penawaran: DKH ([[BOQ vs RAB vs HPS]]), harga satuan dari [[AHSP]], dokumen teknis. Cek [[Checklist Dokumen Penawaran]].
-5. Unggah penawaran sebelum batas waktu. Jangan mepet — server sering lambat di jam terakhir.
-6. Evaluasi → pembuktian kualifikasi (bawa dokumen asli) → pengumuman pemenang → masa sanggah.
-7. Kalau menang: jaminan pelaksanaan, lalu tanda tangan kontrak.
+1. Pastiin akun SPSE aktif di LPSE, data kualifikasi di SIKaP lengkap dan update.
+2. Cari paket, klik ikut tender, download dokumen pemilihan.
+3. Pantengin pemberian penjelasan sama **adendum**. Yang berlaku itu adendum terakhir, bukan yang pertama gw download.
+4. Susun penawaran: DKH ([[BOQ vs RAB vs HPS]]), harga satuan dari [[AHSP]], dokumen teknis. Terus cek [[Checklist Dokumen Penawaran]].
+5. Upload sebelum batas waktu. **Jangan mepet.** Server suka lemot banget di jam-jam terakhir.
+6. Evaluasi → pembuktian kualifikasi (bawa dokumen asli!) → pengumuman pemenang → masa sanggah.
+7. Kalau menang: siapin jaminan pelaksanaan, terus tanda tangan kontrak.
 
 ## Yang sering bikin gugur
 
-- Total penawaran di atas HPS, atau berubah setelah koreksi aritmatik.
-- SBU/SKK tidak sesuai subklasifikasi yang diminta.
-- Dokumen mengikuti versi lama, bukan adendum terakhir.
-- Tidak hadir atau tidak lengkap saat pembuktian kualifikasi.
-- Upload gagal karena mepet waktu.
+- Total di atas HPS, atau jadi di atas HPS setelah koreksi aritmatik.
+- SBU/SKK nggak sesuai subklasifikasi yang diminta.
+- Ngikutin dokumen versi lama, lupa ada adendum.
+- Nggak dateng atau dokumennya kurang pas pembuktian kualifikasi.
+- Upload gagal gara-gara mepet.
 
-## Catatan pribadi
+## Pengalaman gw
 
-- Tulis di sini paket yang pernah diikuti, hasilnya, dan pelajarannya.
+- (Isi di sini paket yang pernah gw ikutin, hasilnya gimana, sama pelajarannya.)
