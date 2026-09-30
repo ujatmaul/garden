@@ -7,7 +7,7 @@ aliases:
   - Tender SPSE
 ---
 
-Tender itu cara milih penyedia lewat **SPSE** (Sistem Pengadaan Secara Elektronik) yang dikelola **LPSE** di tiap instansi. Jalurnya beda sama [[Mini Kompetisi INAPROC]], dan menurut gw jauh lebih ribet.
+Tender itu cara milih penyedia lewat **SPSE** (Sistem Pengadaan Secara Elektronik) yang dikelola **LPSE** di tiap instansi. Jalurnya beda sama [[Mini Kompetisi INAPROC]], dan menurut gw jauh lebih ribet. Kalau mini kompetisi itu nongkrong, tender LPSE itu sidang skripsi.
 
 ## Bedanya sama mini kompetisi
 
@@ -19,7 +19,7 @@ Tender itu cara milih penyedia lewat **SPSE** (Sistem Pengadaan Secara Elektroni
 | Dokumennya | Lengkap: administrasi, teknis, harga, kualifikasi | Biasanya lebih ringkes, sesuai permintaan PPK |
 | Lamanya | Biasanya beberapa minggu | Biasanya lebih cepet |
 
-Dasar aturannya Perpres 16/2018 dan perubahannya, plus peraturan LKPP turunannya. Selalu cek versi terbaru ya, Maul.
+Dasar aturannya Perpres 16/2018 dan perubahannya, plus peraturan LKPP turunannya. Selalu cek versi terbaru ya, Jat. Aturan pengadaan ganti versinya lebih sering dari update aplikasi di HP.
 
 ## Alurnya dari sisi gw
 
@@ -27,8 +27,8 @@ Dasar aturannya Perpres 16/2018 dan perubahannya, plus peraturan LKPP turunannya
 2. Cari paket, klik ikut tender, download dokumen pemilihan.
 3. Pantengin pemberian penjelasan sama **adendum**. Yang berlaku itu adendum terakhir, bukan yang pertama gw download.
 4. Susun penawaran: DKH ([[BOQ vs RAB vs HPS]]), harga satuan dari [[AHSP]], dokumen teknis. Terus cek [[Checklist Dokumen Penawaran]].
-5. Upload sebelum batas waktu. **Jangan mepet.** Server suka lemot banget di jam-jam terakhir.
-6. Evaluasi → pembuktian kualifikasi (bawa dokumen asli!) → pengumuman pemenang → masa sanggah.
+5. Upload sebelum batas waktu. **Jangan mepet.** Server suka lemot banget di jam-jam terakhir. Deadline jam 23.59 itu bukan target, itu jebakan.
+6. Evaluasi → pembuktian kualifikasi (bawa dokumen asli! jangan cuma bawa doa) → pengumuman pemenang → masa sanggah.
 7. Kalau menang: siapin jaminan pelaksanaan, terus tanda tangan kontrak.
 
 ## Yang sering bikin gugur
