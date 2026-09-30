@@ -11,7 +11,7 @@ Sehari-hari gw ngurus **pengadaan konstruksi pemerintah** sambil kuliah **Teknik
 
 ## Mulai dari mana
 
-- [[pengadaan/index|Pengadaan]] — tender, HPS, e-katalog, mini kompetisi, dokumen penawaran.
+- [[pengadaan/index|Pengadaan]] — tender LPSE, mini kompetisi INAPROC, HPS, dokumen penawaran.
 - [[teknik-sipil/index|Teknik Sipil]] — catatan kuliah dan hitungan lapangan.
 - [[catatan/index|Catatan]] — cara kerja, tools, dan hal yang lagi dipikirin.
 - [[random/index|Random]] — sisanya.
