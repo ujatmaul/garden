@@ -5,7 +5,7 @@ tags:
   - teknik-sipil
 ---
 
-Satuan-satuan yang sering banget nongol di DKH sama [[AHSP]]. Gw catet biar nggak nanya-nanya lagi.
+Satuan-satuan yang sering banget nongol di DKH sama [[AHSP]]. Gw catet biar nggak nanya-nanya lagi, malu sama mandor.
 
 | Satuan | Artinya | Contoh item |
 |---|---|---|
@@ -13,7 +13,7 @@ Satuan-satuan yang sering banget nongol di DKH sama [[AHSP]]. Gw catet biar ngga
 | m² | meter persegi | plesteran, cat, paving |
 | m³ | meter kubik | galian, urugan, beton |
 | kg | kilogram | pembesian |
-| ls | lumpsum | mobilisasi, SMKK |
+| ls | lumpsum | mobilisasi, SMKK (alias "pokoknya segini") |
 | OH | orang hari | koefisien tenaga di AHSP |
 | unit / bh | buah | pintu, lampu |
 
