@@ -17,4 +17,4 @@ Mini kompetisi itu jalur di Katalog Elektronik (INAPROC v6). PPK ngundang bebera
 
 ## Pengalaman gw
 
-- (Isi di sini kasus yang pernah gagal dan kenapa.)
+- (gw pernah cape-cape bikin ratusan produk tapi SBU nya ternyata gak cocok.)
