@@ -5,7 +5,7 @@ tags:
   - pengadaan
 ---
 
-Mini kompetisi di Katalog Elektronik (INAPROC v6): PPK mengundang beberapa penyedia yang produknya tayang, lalu penyedia mengajukan penawaran.
+Mini kompetisi di Katalog Elektronik (INAPROC v6): PPK mengundang beberapa penyedia yang produknya tayang, lalu penyedia mengajukan penawaran. Untuk jalur tender terbuka, lihat [[Tender LPSE]].
 
 ## Alur singkat (sisi penyedia)
 
