@@ -5,14 +5,14 @@ tags:
   - pengadaan
 ---
 
-Checklist yang gw cek sebelum klik kirim. Dibuat dari pengalaman pahit, jadi tolong dihargai. Tapi inget: tiap paket bisa beda, dan **dokumen pemilihan selalu menang** dari checklist ini.
+Checklist yang gw cek sebelum klik kirim. Dibuat dari pengalaman pahit, jadi tolong dihargai. Tapi inget tiap paket bisa beda, dan **dokumen pemilihan selalu menang** dari checklist ini. Sekali lagi BACA DENGAN DETAIL DOKUMEN PEMILIHAN PROYEK YANG LU IKUTIN
 
 ## Administrasi & kualifikasi
 
 - [ ] NIB sama KBLI sesuai lingkup kerjaan
 - [ ] SBU subklasifikasinya pas, dan masih berlaku
 - [ ] SKK tenaga ahli/terampil sesuai yang diminta
-- [ ] Pajak: status KSWP valid
+- [ ] Pajak: status KSWP valid (udah laporan pajak tahun terakhir)
 
 ## Teknis
 
@@ -23,8 +23,10 @@ Checklist yang gw cek sebelum klik kirim. Dibuat dari pengalaman pahit, jadi tol
 
 ## Harga
 
-- [ ] DKH: item sama volume nggak gw ubah — liat [[BOQ vs RAB vs HPS]]
+- [ ] DKH: item sama volume jangan diubah — liat [[BOQ vs RAB vs HPS]]
 - [ ] Harga satuan ada dasarnya di [[AHSP]]
 - [ ] Total + PPN ≤ HPS, pembulatan udah dicek
 - [ ] Terbilang sama persis dengan angkanya
 - [ ] Udah tarik napas, baru klik kirim
+
+DOUBLE CHECK SEMUANYAAAA, KALO BISA TRIPLE CHECK. POKOKNYA CHECK SEBANYAK DAN SEDETAIL YANG LU BISA
