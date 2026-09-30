@@ -1,19 +1,19 @@
 ---
-title: Cara Kerja Kebun Ini
+title: Aturan Main Kebun Ini
 tags:
   - 🌳matang
   - meta
 ---
 
-Semua catatan ditulis di **Obsidian**, lalu diterbitkan jadi website pakai **Quartz**.
+Semua catatan gue tulis di **Obsidian**, lalu yang memang perlu dibaca orang lain gue terbitkan jadi website pakai **Quartz**.
 
 ## Aturan main
 
-1. Satu catatan = satu ide. Kalau kepanjangan, pecah.
-2. Link ke catatan lain pakai `[[nama catatan]]` — backlink muncul otomatis di bawah.
-3. Kasih tag status: `#🌱bibit`, `#🌿tumbuh`, `#🌳matang`.
-4. Catatan pribadi taruh di folder `private/` — **tidak** ikut diterbitkan.
-5. Draft yang belum siap tayang: tambah `draft: true` di frontmatter.
+1. Satu catatan, satu ide. Kalau mulai terlalu panjang dan bahas banyak hal, gue pecah jadi beberapa catatan.
+2. Kalau ada hubungannya sama catatan lain, tinggal kasih link. Pakai `[[nama catatan]]` Nanti Obsidian otomatis nunjukin catatan yang saling terhubung.
+3. Gue kasih status pakai tag: `#🌱bibit`, `#🌿tumbuh`, `#🌳matang`.
+4. Hal-hal yang sifatnya pribadi gue simpan di `private/` — **tidak** ikut diterbitkan.
+5. Kalau catatan masih setengah jadi, tandai sebagai draft: TInggal tambahin `draft: true` di frontmatter supaya gak ikut tayang.
 
 ## Terbitkan
 
