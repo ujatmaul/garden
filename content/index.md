@@ -5,7 +5,7 @@ tags:
   - home
 ---
 
-Halo! Biasa dipanggil **Ujat**. Karena nama gw tergolong susah penyebutannya makanya diringkas aja
+Halo! Gw Yuzadt Maulana Biasa dipanggil **Ujat**. Karena nama gw tergolong susah penyebutannya makanya diringkas aja
 
 Yuzadt Maulana (baca: Ujat), bukan Usat bukan yusat. Udah sering salah panggil, gw udah ikhlas
 
