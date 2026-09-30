@@ -5,7 +5,7 @@ tags:
   - teknik-sipil
 ---
 
-Sekarang mutu beton umumnya pake **fc'** (MPa, benda uji silinder). Tapi istilah lama **K** (kg/cm², benda uji kubus) masih sering banget muncul, baik di dokumen maupun obrolan di lapangan.
+Sekarang mutu beton umumnya pake **fc'** (MPa, benda uji silinder). Tapi istilah lama **K** (kg/cm², benda uji kubus) masih sering banget muncul, baik di dokumen maupun obrolan di lapangan. Beton aja bisa move on dari K ke fc', masa kita nggak.
 
 ## Yang perlu gw inget
 
