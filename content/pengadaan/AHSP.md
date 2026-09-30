@@ -8,25 +8,25 @@ aliases:
   - Analisa Harga Satuan Pekerjaan
 ---
 
-**Analisa Harga Satuan Pekerjaan** — pecahan satu item pekerjaan jadi komponen tenaga, bahan, dan alat.
+**AHSP** alias Analisa Harga Satuan Pekerjaan. Intinya: satu item kerjaan dibongkar jadi komponen tenaga, bahan, sama alat.
 
-Rujukan utama: Permen PUPR No. 8 Tahun 2023 tentang pedoman penyusunan perkiraan biaya pekerjaan konstruksi.
+Pegangan gw: Permen PUPR No. 8 Tahun 2023 soal pedoman nyusun perkiraan biaya pekerjaan konstruksi.
 
 ## Rumus dasarnya
 
 ```
-Harga satuan = Σ (koefisien × harga dasar)   untuk tenaga + bahan + alat
+Harga satuan = Σ (koefisien × harga dasar)   buat tenaga + bahan + alat
              + overhead & profit (%)
 ```
 
-- **Koefisien** diambil dari tabel AHSP (misalnya: berapa OH pekerja per m³ beton).
+- **Koefisien** ambil dari tabel AHSP. Contoh: berapa OH pekerja buat 1 m³ beton.
 - **Harga dasar** dari standar harga daerah atau survei pasar.
-- **Overhead & profit** mengikuti ketentuan yang berlaku di dokumen pemilihan.
+- **Overhead & profit** ikutin ketentuan di dokumen pemilihan.
 
-## Cara kerja gw di Excel
+## Cara gw ngerjainnya di Excel
 
-- Satu sheet harga dasar, satu sheet AHSP, satu sheet [[BOQ vs RAB vs HPS|DKH]].
-- Semua angka di AHSP **merujuk** ke sheet harga dasar — nggak ada angka diketik ulang.
-- Kalau total harus masuk target di bawah HPS, yang disesuaikan harga dasar/profit, **bukan** koefisien.
+- Pisahin jadi tiga sheet: harga dasar, AHSP, sama [[BOQ vs RAB vs HPS|DKH]].
+- Semua angka di sheet AHSP **ngerujuk** ke sheet harga dasar. Nggak ada angka yang gw ketik ulang, biar kalau harga berubah semuanya ikut.
+- Kalau totalnya harus masuk di bawah HPS, yang gw utak-atik harga dasar atau profit. **Koefisien jangan disentuh.**
 
-Terkait: [[Beton Mutu dan Campuran]]
+Nyambung ke: [[Beton Mutu dan Campuran]]
