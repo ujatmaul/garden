@@ -5,14 +5,14 @@ tags:
   - teknik-sipil
 ---
 
-Mutu beton sekarang umumnya dinyatakan dalam **fc'** (MPa, benda uji silinder). Istilah lama **K** (kg/cm², kubus) masih sering muncul di dokumen dan obrolan lapangan.
+Sekarang mutu beton umumnya pake **fc'** (MPa, benda uji silinder). Tapi istilah lama **K** (kg/cm², benda uji kubus) masih sering banget muncul, baik di dokumen maupun obrolan di lapangan.
 
-## Yang perlu diingat
+## Yang perlu gw inget
 
-- fc' dan K **tidak bisa dikonversi 1:1** dengan faktor tunggal yang pasti — cek tabel yang dipakai di spesifikasi teknis paketnya.
-- Koefisien semen, pasir, split, dan air per m³ ada di [[AHSP]] untuk tiap mutu.
-- Beton ready mix vs site mix beda cara hitung harganya.
+- fc' sama K **nggak bisa dikonversi 1:1** pake satu angka pasti. Cek tabel yang dipake di spesifikasi teknis paketnya.
+- Koefisien semen, pasir, split, sama air per m³ buat tiap mutu ada di [[AHSP]].
+- Beton ready mix sama site mix cara ngitung harganya beda.
 
 ## To do
 
-- Tambah catatan dari praktikum material.
+- Tambahin catetan dari praktikum material.
