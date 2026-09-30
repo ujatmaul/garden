@@ -1,20 +1,23 @@
 ---
-title: Aturan Main Kebun Ini
+title: Cara Kerja Kebun Ini
 tags:
   - 🌳matang
   - meta
 ---
 
-Semua catatan gue tulis di **Obsidian**, lalu yang memang perlu dibaca orang lain gue terbitkan jadi website pakai **Quartz**.
+Catetan buat gw sendiri soal gimana kebun ini jalan, biar nggak lupa.
 
-## Aturan main
+## Aturan main gw
 
-1. Satu catatan, satu ide. Kalau mulai terlalu panjang dan bahas banyak hal, gue pecah jadi beberapa catatan.
-2. Kalau ada hubungannya sama catatan lain, tinggal kasih link. Pakai `[[nama catatan]]` Nanti Obsidian otomatis nunjukin catatan yang saling terhubung.
-3. Gue kasih status pakai tag: `#🌱bibit`, `#🌿tumbuh`, `#🌳matang`.
-4. Hal-hal yang sifatnya pribadi gue simpan di `private/` — **tidak** ikut diterbitkan.
-5. Kalau catatan masih setengah jadi, tandai sebagai draft: TInggal tambahin `draft: true` di frontmatter supaya gak ikut tayang.
+1. Satu catetan = satu ide. Kalau kepanjangan, pecah aja.
+2. Mau nyambungin ke catetan lain, tulis `[[nama catetan]]`. Backlink-nya muncul sendiri di bawah.
+3. Kasih label umur: `#🌱bibit`, `#🌿tumbuh`, `#🌳matang`.
+4. Yang belum siap tayang, tambahin `draft: true` di bagian atas.
+5. **Jangan taruh data paket, HPS asli, atau data klien di sini.** Repo-nya public, semua orang bisa baca.
 
-## Terbitkan
+## Cara nambah atau ngedit
 
-Buka GitHub Desktop → **Commit to main** → **Push origin**. Website build ulang otomatis sekitar 3 menit.
+1. Buka github.com/ujatmaul/garden, masuk folder `content`.
+2. Mau ngedit: klik catetannya, terus ikon pensil ✏️. Mau bikin baru: **Add file → Create new file**, namanya akhiri `.md`.
+3. Klik **Commit changes** dua kali.
+4. Tunggu 1–2 menit, website update sendiri.
