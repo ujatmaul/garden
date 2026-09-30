@@ -5,7 +5,7 @@ tags:
   - pengadaan
 ---
 
-Mini kompetisi itu jalur di Katalog Elektronik (INAPROC v6). PPK ngundang beberapa penyedia yang produknya udah tayang, terus kita masukin penawaran. Diundang doang belum tentu dapet, sama kayak diundang kondangan belum tentu kebagian rendang. Kalau mau jalur tender terbuka, catetannya di [[Tender LPSE]].
+Mini kompetisi itu jalur di Katalog Elektronik (INAPROC v6). PPK ngundang atau ngumumin beberapa penyedia yang produknya udah tayang, terus kita masukin penawaran. Diundang doang belum tentu dapet, sama kayak diundang kondangan belum tentu kebagian rendang. Kalau mau jalur tender terbuka, catetannya di [[Tender LPSE]].
 
 ## Alurnya dari sisi gw
 
