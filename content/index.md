@@ -1,31 +1,33 @@
 ---
 title: Kebun Maul
-description: Catatan lapangan soal tender, konstruksi, dan kuliah teknik sipil.
+description: Catetan pribadi gw soal tender, proyek, dan kuliah sipil.
 tags:
   - home
 ---
 
-Halo, gw **Maul**. Ini digital garden gw — catatan yang tumbuh pelan-pelan, bukan blog yang rapi. Isinya setengah matang, sering direvisi, dan saling nyambung lewat link.
+Halo, gw **Maul**.
 
-Sehari-hari gw ngurus **pengadaan konstruksi pemerintah** sambil kuliah **Teknik Sipil**. Jadi yang ditanam di sini kebanyakan dari dua dunia itu.
+Ini kebun digital gw. Isinya bukan blog rapi, tapi catetan yang gw tanem pelan-pelan: kadang masih mentah, kadang gw revisi berkali-kali, dan saling nyambung satu sama lain.
 
-## Mulai dari mana
+Sehari-hari gw ngurusin **tender proyek konstruksi pemerintah**, sambil kuliah **Teknik Sipil** malem-malem sama Sabtu. Jadi ya isinya kebanyakan dari dua dunia itu. Banyak hal yang gw pelajarin dengan cara yang agak nyakitin (baca: gugur tender), jadi gw tulis di sini biar nggak kejadian lagi.
+
+## Mau mulai dari mana?
 
 - [[pengadaan/index|Pengadaan]] — tender LPSE, mini kompetisi INAPROC, HPS, dokumen penawaran.
-- [[teknik-sipil/index|Teknik Sipil]] — catatan kuliah dan hitungan lapangan.
-- [[catatan/index|Catatan]] — cara kerja, tools, dan hal yang lagi dipikirin.
+- [[teknik-sipil/index|Teknik Sipil]] — catetan kuliah sama itung-itungan lapangan.
+- [[catatan/index|Catatan]] — cara gw kerja, tools, sama hal yang lagi kepikiran.
 - [[random/index|Random]] — sisanya.
 
 ## Cara baca kebun ini
 
-Tiap catatan punya status tumbuh di tag-nya:
+Tiap catetan ada label "umurnya":
 
-| Tag | Artinya |
+| Tag | Maksudnya |
 |---|---|
-| `#🌱bibit` | Ide mentah, baru ditanam |
-| `#🌿tumbuh` | Sudah ada isi, masih sering diubah |
-| `#🌳matang` | Cukup stabil untuk dijadikan rujukan |
+| `#🌱bibit` | Baru gw tanem, masih mentah banget |
+| `#🌿tumbuh` | Udah ada isinya, tapi masih sering gw ubah |
+| `#🌳matang` | Udah cukup yakin, bisa dijadiin pegangan |
 
-Buka **Graph View** di kanan bawah buat lihat catatan mana yang nyambung ke mana.
+Kalau mau liat catetan mana nyambung ke mana, buka **Graph View** di kanan bawah.
 
-Silakan jalan-jalan.
+Santai aja, jalan-jalan dulu.
