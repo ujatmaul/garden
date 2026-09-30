@@ -8,7 +8,7 @@ aliases:
   - Analisa Harga Satuan Pekerjaan
 ---
 
-**AHSP** alias Analisa Harga Satuan Pekerjaan. Intinya: satu item kerjaan dibongkar jadi komponen tenaga, bahan, sama alat.
+**AHSP** alias Analisa Harga Satuan Pekerjaan. Intinya: satu item kerjaan dibongkar jadi komponen tenaga, bahan, sama alat. Semacam bedah rumah, tapi yang dibedah harganya.
 
 Pegangan gw: Permen PUPR No. 8 Tahun 2023 soal pedoman nyusun perkiraan biaya pekerjaan konstruksi.
 
@@ -27,6 +27,6 @@ Harga satuan = Σ (koefisien × harga dasar)   buat tenaga + bahan + alat
 
 - Pisahin jadi tiga sheet: harga dasar, AHSP, sama [[BOQ vs RAB vs HPS|DKH]].
 - Semua angka di sheet AHSP **ngerujuk** ke sheet harga dasar. Nggak ada angka yang gw ketik ulang, biar kalau harga berubah semuanya ikut.
-- Kalau totalnya harus masuk di bawah HPS, yang gw utak-atik harga dasar atau profit. **Koefisien jangan disentuh.**
+- Kalau totalnya harus masuk di bawah HPS, yang gw utak-atik harga dasar atau profit. **Koefisien jangan disentuh.** Koefisien itu suci. Yang nyentuh, kualat pas evaluasi.
 
 Nyambung ke: [[Beton Mutu dan Campuran]]
