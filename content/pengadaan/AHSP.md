@@ -22,6 +22,7 @@ Harga satuan = Σ (koefisien × harga dasar)   buat tenaga + bahan + alat
 - **Koefisien** ambil dari tabel AHSP. Contoh: berapa OH pekerja buat 1 m³ beton.
 - **Harga dasar** dari standar harga daerah atau survei pasar.
 - **Overhead & profit** ikutin ketentuan di dokumen pemilihan.
+- **Koefisien jangan disentuh** Koefisien itu suci. Yang nyentuh, bukan cuma kualat pas evaluasi, tapi juga pas diaudit.
 
 ## Cara gw ngerjainnya di Excel
 
