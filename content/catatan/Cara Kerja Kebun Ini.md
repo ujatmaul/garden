@@ -5,7 +5,7 @@ tags:
   - meta
 ---
 
-Catetan buat gw sendiri soal gimana kebun ini jalan, biar nggak lupa.
+Catetan buat gw sendiri soal gimana kebun ini jalan, biar nggak lupa. Karena gw pasti lupa.
 
 ## Aturan main gw
 
