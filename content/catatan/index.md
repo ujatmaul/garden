@@ -2,6 +2,6 @@
 title: Catatan
 ---
 
-Cara kerja, tools, dan hal yang lagi dipikirin.
+Cara gw kerja, tools yang gw pake, sama hal-hal yang lagi muter di kepala.
 
 - [[Cara Kerja Kebun Ini]]
