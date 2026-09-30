@@ -1,4 +1,4 @@
-# Kebun Ujat
+# Kebon Ujat
 
 Website: https://ujatmaul.github.io/garden
 
