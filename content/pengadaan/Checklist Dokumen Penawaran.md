@@ -5,7 +5,7 @@ tags:
   - pengadaan
 ---
 
-Checklist yang gw cek sebelum klik kirim. Tapi inget: tiap paket bisa beda, dan **dokumen pemilihan selalu menang** dari checklist ini.
+Checklist yang gw cek sebelum klik kirim. Dibuat dari pengalaman pahit, jadi tolong dihargai. Tapi inget: tiap paket bisa beda, dan **dokumen pemilihan selalu menang** dari checklist ini.
 
 ## Administrasi & kualifikasi
 
@@ -27,3 +27,4 @@ Checklist yang gw cek sebelum klik kirim. Tapi inget: tiap paket bisa beda, dan 
 - [ ] Harga satuan ada dasarnya di [[AHSP]]
 - [ ] Total + PPN ≤ HPS, pembulatan udah dicek
 - [ ] Terbilang sama persis dengan angkanya
+- [ ] Udah tarik napas, baru klik kirim
