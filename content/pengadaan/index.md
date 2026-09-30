@@ -11,3 +11,5 @@ Kalau lu baru mulai, urutan bacanya gini aja:
 3. [[Tender LPSE]] — tender terbuka lewat SPSE.
 4. [[Mini Kompetisi INAPROC]] — jalur e-katalog v6.
 5. [[Checklist Dokumen Penawaran]] — biar nggak gugur gara-gara hal receh.
+
+Fun fact: kata "gugur" di dunia tender lebih sering bikin gw deg-degan daripada di pelajaran sejarah.
