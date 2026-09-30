@@ -2,4 +2,4 @@
 title: Random
 ---
 
-Tempat buat hal yang nggak masuk kategori lain. Mulai tanam di sini.
+Tempat buat hal yang nggak masuk kategori lain. Gw tanam di sini.
