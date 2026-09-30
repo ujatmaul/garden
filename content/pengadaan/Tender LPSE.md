@@ -15,7 +15,7 @@ Tender itu cara milih penyedia lewat **SPSE** (Sistem Pengadaan Secara Elektroni
 |---|---|---|
 | Di mana | SPSE di situs LPSE instansi | Katalog Elektronik INAPROC |
 | Siapa yang bisa ikut | Semua penyedia terdaftar yang lolos kualifikasi | Penyedia yang produknya udah tayang di katalog |
-| Yang jalanin | Pokja Pemilihan (UKPBJ) | PPK |
+| Yang jalanin | Pokja Pemilihan (UKPBJ) | PPK (bisa pokja pemilihan juga sih)|
 | Dokumennya | Lengkap: administrasi, teknis, harga, kualifikasi | Biasanya lebih ringkes, sesuai permintaan PPK |
 | Lamanya | Biasanya beberapa minggu | Biasanya lebih cepet |
 
@@ -29,7 +29,7 @@ Dasar aturannya Perpres 16/2018 dan perubahannya, plus peraturan LKPP turunannya
 4. Susun penawaran: DKH ([[BOQ vs RAB vs HPS]]), harga satuan dari [[AHSP]], dokumen teknis. Terus cek [[Checklist Dokumen Penawaran]].
 5. Upload sebelum batas waktu. **Jangan mepet.** biasanya nanti panik sendiri. Deadline jam 23.59 itu jebakan, makanya lebih cepat lebih baik.
 6. Evaluasi → pembuktian kualifikasi (bawa dokumen asli!) → pengumuman pemenang → masa sanggah.
-7. Kalau menang: nanti dipanggil buat tanda tangan SPPBJ. Siapin jaminan pelaksanaan, terus tanda tangan kontrak.
+7. Kalau menang: nanti dipanggil buat tanda tangan SPPBJ. SPPBJ adalah dasar buat lu nerbitin jaminan pelaksanaan, terus tanda tangan kontrak.
 
 ## Yang sering bikin gugur
 
