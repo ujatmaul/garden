@@ -5,10 +5,10 @@ tags:
 draft: false
 ---
 
-Satu kalimat: catatan ini tentang apa.
+Satu kalimat aja: ini catetan soal apa.
 
-## Isi
+## Isinya
 
-## Terkait
+## Nyambung ke
 
 - [[]]
