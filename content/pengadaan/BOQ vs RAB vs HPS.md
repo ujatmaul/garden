@@ -7,7 +7,7 @@ aliases:
   - DKH
 ---
 
-Jujur dulu gw sering ketuker tiga ini. Isinya mirip-mirip, sama-sama daftar kerjaan × volume × harga. Tapi **yang bikin sama fungsinya beda jauh**.
+Jujur dulu gw sering ketuker tiga ini. Isinya mirip-mirip, sama-sama daftar kerjaan × volume × harga. Tapi **yang bikin sama fungsinya beda jauh**. Kayak kembar tiga yang beda bapak.
 
 | Dokumen | Yang bikin | Buat apa |
 |---|---|---|
@@ -19,7 +19,7 @@ Jujur dulu gw sering ketuker tiga ini. Isinya mirip-mirip, sama-sama daftar kerj
 
 ### 1. Jangan pernah ubah volume di DKH
 
-Item sama volume itu ngikut dokumen pemilihan. Tugas gw cuma isi harga satuannya. Titik.
+Item sama volume itu ngikut dokumen pemilihan. Tugas gw cuma isi harga satuannya. Titik. Volume itu kayak mantan: udah ditetapin, nggak usah diutak-atik lagi.
 
 > **Dasar hukumnya:** Peraturan LKPP No. 12 Tahun 2021 jo. Peraturan LKPP No. 4 Tahun 2024, Lampiran (model Dokumen Pemilihan Pekerjaan Konstruksi), Instruksi Kepada Peserta — bagian koreksi aritmatik:
 > - volume di DKH penawaran **disesuaikan sama volume di Dokumen Pemilihan**;
@@ -31,13 +31,13 @@ Jadi kalau gw iseng ubah volume, ujung-ujungnya volumenya tetep dibalikin ke Dok
 
 ### 2. Total di atas HPS = gugur
 
-Selalu cek total akhir **setelah PPN dan pembulatan**. Pernah ada yang lolos di itungan kasar tapi jebol pas udah plus PPN.
+Selalu cek total akhir **setelah PPN dan pembulatan**. Pernah ada yang lolos di itungan kasar tapi jebol pas udah plus PPN. PPN tuh diem-diem ngehancurin, kayak gorengan jam 11 malem.
 
 > **Dasar hukumnya:**
 > - Perpres No. 16 Tahun 2018 jo. Perpres No. 12 Tahun 2021 jo. Perpres No. 46 Tahun 2025, **Pasal 26 ayat (5)**: HPS dipake buat nilai kewajaran harga penawaran dan/atau harga satuan, sama jadi **dasar batas tertinggi penawaran yang sah** buat pekerjaan konstruksi.
 > - Dokumen Pemilihan (IKP, bagian evaluasi harga): **penawaran setelah koreksi aritmatik yang melebihi nilai HPS dinyatakan gugur**. Kalau semua peserta di atas HPS, tendernya gagal.
 
-Yang dibandingin sama HPS itu total **setelah koreksi aritmatik**, bukan angka yang gw ketik. Beda tipis tapi fatal.
+Yang dibandingin sama HPS itu total **setelah koreksi aritmatik**, bukan angka yang gw ketik. Beda tipis tapi fatal. Kayak beda "otw" sama "baru bangun".
 
 ### 3. Tiap harga satuan harus bisa gw pertanggungjawabkan pake [[AHSP]]
 
