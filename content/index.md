@@ -19,6 +19,7 @@ Sehari-hari gw ngurusin **tender proyek konstruksi pemerintah**, kadang juga ke 
 - [[teknik-sipil/index|Teknik Sipil]] — catetan kuliah sama itung-itungan lapangan.
 - [[catatan/index|Catatan]] — cara gw kerja, tools, sama hal yang lagi kepikiran.
 - [[random/index|Random]] — sisanya.
+- [[sekarang|Lagi ngapain sekarang]] — update kecil soal hidup gw bulan ini.
 
 ## Cara baca kebon ini
 
