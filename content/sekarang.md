@@ -11,7 +11,7 @@ Halaman ini isinya update kecil soal gw lagi sibuk apa. Bukan curhat, cuma biar 
 
 ## Kerjaan
 
-Masih ngurusin tender proyek konstruksi pemerintah, kadang turun ke lapangan juga. Bulan ini lagi sibuk banget ngurusin proyek. Kalau gw lama bales chat, ya itu alasannya.
+Bulan ini lagi sibuk banget ngurusin proyek, kadang turun ke lapangan juga. Kalau gw lama bales chat, ya itu alasannya.
 
 ## Kuliah
 
