@@ -4,7 +4,7 @@ aliases:
   - catatan/cara-kerja-kebun-ini
 tags:
   - 🌳matang
-  - meta
+  - dapur-kebon
 ---
 
 Catetan buat gw sendiri soal gimana kebon ini jalan, biar nggak lupa. Karena gw pasti lupa.
