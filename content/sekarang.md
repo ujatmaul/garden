@@ -2,7 +2,7 @@
 title: Lagi Ngapain Sekarang
 description: Update kecil soal hidup gw bulan ini.
 tags:
-  - meta
+  - dapur-kebon
 ---
 
 *Terakhir diupdate: Oktober 2026*
