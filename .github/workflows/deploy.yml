@@ -1,4 +1,4 @@
-name: Deploy Kebun Maul
+name: Deploy Kebon Ujat
 
 on:
   push:
@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          path: kebun
+          path: kebon
           fetch-depth: 0
       - uses: actions/checkout@v4
         with:
@@ -30,17 +30,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Pasang catatan dan config
-        run: |
-          rm -rf quartz/content
-          cp -r kebun/content quartz/content
-          cp kebun/quartz.config.yaml quartz/quartz.config.yaml
+      - name: Pasang config
+        run: cp kebon/quartz.config.yaml quartz/quartz.config.yaml
       - name: Build
         working-directory: quartz
         run: |
           npm ci
           npx quartz plugin install --from-config
-          npx quartz build
+          npx quartz build -d ../kebon/content
       - uses: actions/upload-pages-artifact@v3
         with:
           path: quartz/public
