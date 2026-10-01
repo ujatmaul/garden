@@ -13,6 +13,3 @@ Sekarang mutu beton umumnya pake **fc'** (MPa, benda uji silinder). Tapi istilah
 - Koefisien semen, pasir, split, sama air per m³ buat tiap mutu ada di [[AHSP]].
 - Beton ready mix sama site mix cara ngitung harganya beda.
 
-## To do
-
-- Tambahin catetan dari praktikum material.
