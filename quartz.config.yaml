@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Kebun Ujat
+  pageTitle: Kebon Ujat
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -234,7 +234,16 @@ plugins:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
+    options:
+      title: "Baru Ditanem"
+      limit: 5
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+      position: right
+      priority: 20
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
